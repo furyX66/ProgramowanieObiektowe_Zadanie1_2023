@@ -1,0 +1,72 @@
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll

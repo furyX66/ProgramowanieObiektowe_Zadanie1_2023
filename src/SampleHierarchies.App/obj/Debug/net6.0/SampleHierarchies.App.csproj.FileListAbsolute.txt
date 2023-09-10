@@ -1,0 +1,366 @@
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.exe
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.deps.json
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.runtimeconfig.json
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\refint\SampleHierarchies.App.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll

@@ -1,0 +1,9 @@
+{
+  "MainScreen": "Blue",
+  "AnimalsScreen": "Green",
+  "MammalsScreen": "DarkGray",
+  "DogsScreen": "Cyan",
+  "African_Elephant": "Yellow",
+  "OrangutanScreen": "DarkGreen",
+  "BeaverScreen": "Magenta"
+}

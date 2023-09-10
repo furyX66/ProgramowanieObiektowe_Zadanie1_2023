@@ -1,0 +1,72 @@
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.deps.json
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\refint\SampleHierarchies.Helpers.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Helpers\obj\Debug\net6.0\ref\SampleHierarchies.Helpers.dll

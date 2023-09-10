@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XNlZQHBj4ozW+K1PXbZucUru8zUJcs0Nx4LdAVZhQrU/irfmUw/UX7QuRuaeRCAiJODzyipNMr/G3DhzVgNIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LaGGe\\Desktop\\C#\\ex1\\Program\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LaGGe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

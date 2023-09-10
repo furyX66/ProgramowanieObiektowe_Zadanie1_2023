@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsogQvZ7HY4CoJD8KtY+5ld4x8whP4aHZeL0+W//2KLMpe9SNn9LCgozLGTvy66dlLRpFae7lYZ/wnlHtGw7Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LaGGe\\Desktop\\C#\\ex1\\Program\\src\\SampleHierarchies.Gui\\SampleHierarchies.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LaGGe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

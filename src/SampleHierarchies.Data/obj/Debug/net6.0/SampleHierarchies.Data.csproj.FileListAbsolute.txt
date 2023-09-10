@@ -1,0 +1,102 @@
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\source\repos\ProgrammingObjectOriented\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\Wykładowca-218\Downloads\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Documents\ДЗ\Programowanie objectowe\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\backups\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\LaGGe\Desktop\C#\ex1\Program\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
